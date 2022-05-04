@@ -1,0 +1,30 @@
+D:\documentos\SharpDevelop Projects\P3Proj16Grafos\P3Proj16Grafos\bin\Debug\P3Proj15Grafos.exe.config
+D:\documentos\SharpDevelop Projects\P3Proj16Grafos\P3Proj16Grafos\bin\Debug\P3Proj15Grafos.exe
+D:\documentos\SharpDevelop Projects\P3Proj16Grafos\P3Proj16Grafos\bin\Debug\P3Proj15Grafos.pdb
+D:\documentos\SharpDevelop Projects\P3Proj16Grafos\P3Proj16Grafos\obj\Debug\P3Proj16Grafos.csprojResolveAssemblyReference.cache
+D:\documentos\SharpDevelop Projects\P3Proj16Grafos\P3Proj16Grafos\obj\Debug\P3Proj15Grafos.exe
+D:\documentos\SharpDevelop Projects\P3Proj16Grafos\P3Proj16Grafos\obj\Debug\P3Proj15Grafos.pdb
+C:\Users\TANIA\Desktop\documentos\programacao\Nova pasta\P3Proj16Grafos\P3Proj16Grafos\bin\Debug\P3Proj15Grafos.exe.config
+C:\Users\TANIA\Desktop\documentos\programacao\Nova pasta\P3Proj16Grafos\P3Proj16Grafos\bin\Debug\P3Proj15Grafos.exe
+C:\Users\TANIA\Desktop\documentos\programacao\Nova pasta\P3Proj16Grafos\P3Proj16Grafos\bin\Debug\P3Proj15Grafos.pdb
+C:\Users\TANIA\Desktop\documentos\programacao\Nova pasta\P3Proj16Grafos\P3Proj16Grafos\obj\Debug\P3Proj16Grafos.csprojResolveAssemblyReference.cache
+C:\Users\TANIA\Desktop\documentos\programacao\Nova pasta\P3Proj16Grafos\P3Proj16Grafos\obj\Debug\P3Proj15Grafos.exe
+C:\Users\TANIA\Desktop\documentos\programacao\Nova pasta\P3Proj16Grafos\P3Proj16Grafos\obj\Debug\P3Proj15Grafos.pdb
+C:\Users\TANIA\Documents\Nova pasta (3)\documentos\programacao\Nova pasta\P3Proj16Grafos\P3Proj16Grafos\bin\Debug\P3Proj15Grafos.exe.config
+C:\Users\TANIA\Documents\Nova pasta (3)\documentos\programacao\Nova pasta\P3Proj16Grafos\P3Proj16Grafos\bin\Debug\P3Proj15Grafos.exe
+C:\Users\TANIA\Documents\Nova pasta (3)\documentos\programacao\Nova pasta\P3Proj16Grafos\P3Proj16Grafos\bin\Debug\P3Proj15Grafos.pdb
+C:\Users\TANIA\Documents\Nova pasta (3)\documentos\programacao\Nova pasta\P3Proj16Grafos\P3Proj16Grafos\obj\Debug\P3Proj16Grafos.csprojResolveAssemblyReference.cache
+C:\Users\TANIA\Documents\Nova pasta (3)\documentos\programacao\Nova pasta\P3Proj16Grafos\P3Proj16Grafos\obj\Debug\P3Proj15Grafos.exe
+C:\Users\TANIA\Documents\Nova pasta (3)\documentos\programacao\Nova pasta\P3Proj16Grafos\P3Proj16Grafos\obj\Debug\P3Proj15Grafos.pdb
+C:\Users\TANIA\Documents\Nova pasta (3)\documentos\programacao\Nova pasta\P3Proj16Grafo - Lista adjacencia\P3Proj16Grafos\bin\Debug\P3Proj15Grafos.exe.config
+C:\Users\TANIA\Documents\Nova pasta (3)\documentos\programacao\Nova pasta\P3Proj16Grafo - Lista adjacencia\P3Proj16Grafos\bin\Debug\P3Proj15Grafos.exe
+C:\Users\TANIA\Documents\Nova pasta (3)\documentos\programacao\Nova pasta\P3Proj16Grafo - Lista adjacencia\P3Proj16Grafos\bin\Debug\P3Proj15Grafos.pdb
+C:\Users\TANIA\Documents\Nova pasta (3)\documentos\programacao\Nova pasta\P3Proj16Grafo - Lista adjacencia\P3Proj16Grafos\obj\Debug\P3Proj16Grafos.csprojResolveAssemblyReference.cache
+C:\Users\TANIA\Documents\Nova pasta (3)\documentos\programacao\Nova pasta\P3Proj16Grafo - Lista adjacencia\P3Proj16Grafos\obj\Debug\P3Proj15Grafos.exe
+C:\Users\TANIA\Documents\Nova pasta (3)\documentos\programacao\Nova pasta\P3Proj16Grafo - Lista adjacencia\P3Proj16Grafos\obj\Debug\P3Proj15Grafos.pdb
+C:\Users\TANIA\Documents\IPB\p3\P3Proj16Grafo - Lista adjacencia\P3Proj16Grafos\obj\Debug\P3Proj16Grafos.csprojResolveAssemblyReference.cache
+C:\Users\TANIA\Documents\IPB\p3\P3Proj16Grafo - Lista adjacencia\P3Proj16Grafos\obj\Debug\P3Proj15Grafos.exe
+C:\Users\TANIA\Documents\IPB\p3\P3Proj16Grafo - Lista adjacencia\P3Proj16Grafos\obj\Debug\P3Proj15Grafos.pdb
+C:\Users\TANIA\Documents\IPB\p3\P3Proj16Grafo - Lista adjacencia\P3Proj16Grafos\bin\Debug\P3Proj15Grafos.exe.config
+C:\Users\TANIA\Documents\IPB\p3\P3Proj16Grafo - Lista adjacencia\P3Proj16Grafos\bin\Debug\P3Proj15Grafos.exe
+C:\Users\TANIA\Documents\IPB\p3\P3Proj16Grafo - Lista adjacencia\P3Proj16Grafos\bin\Debug\P3Proj15Grafos.pdb
